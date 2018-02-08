@@ -7,7 +7,7 @@
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
+	<url>https://github.com/atul7107/github-maven-example</url>
 
 	<issueManagement>
 		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
@@ -30,10 +30,10 @@
 
 	<developers>
 		<developer>
-			<email>kevinsawicki@gmail.com</email>
-			<name>Kevin Sawicki</name>
-			<url>https://github.com/kevinsawicki</url>
-			<id>kevinsawicki</id>
+			<email>atul.yadav7717@gmail.com</email>
+			<name>Atul</name>
+			<url>https://github.com/atul7107</url>
+			<id>atul7107</id>
 		</developer>
 	</developers>
 
